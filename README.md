@@ -2,7 +2,7 @@
 
 🎯 Cybersecurity | Linux | Python | Shell
 
-Tenho 16 anos. Me interesso por programação desde os 13 e comecei a estudar seriamente aos 15. Atualmente, foco em **cibersegurança**, com objetivo de trabalhar profissionalmente na área no futuro.
+Olá, eu sou o **Cristian** (também conhecido como **Sz**). Tenho 16 anos, foco em **cibersegurança**, com o objetivo de atuar profissionalmente na área. Busco entender sistemas a fundo — de como são construídos a como podem ser quebrados (e protegidos).
 
 ---
 
@@ -18,8 +18,8 @@ Tenho 16 anos. Me interesso por programação desde os 13 e comecei a estudar se
 ## 📂 O que já fiz
 
 - 🤖 **Bot para Telegram** com integração à Wikipedia  
-- 🛠️ **Script de automação de terminal** para tarefas repetitivas no Linux
+- 🛠️ **Script de automação** no terminal para tarefas repetitivas no Linux
 
 ---
 
-> ⚠️ Uso educacional. Projetos com fins éticos e responsáveis.
+> ⚠️ Todos os projetos são para fins educacionais, com ética e responsabilidade como princípios.
