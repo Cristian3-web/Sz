@@ -23,3 +23,5 @@ Olá, eu sou o **Cristian** (também conhecido como **Sz**). Tenho 16 anos, foco
 ---
 
 > ⚠️ Todos os projetos são para fins educacionais, com ética e responsabilidade como princípios.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
+
