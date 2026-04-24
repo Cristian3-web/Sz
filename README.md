@@ -2,7 +2,7 @@
 
 🎯 Cybersecurity | Linux | Python | Shell
 
-Olá, eu sou o **Cristian** (também conhecido como **Sz**). Tenho 16 anos, foco em **cibersegurança**, com o objetivo de atuar profissionalmente na área. Busco entender sistemas a fundo — de como são construídos a como podem ser quebrados (e protegidos).
+Olá, eu sou o **Cristian**Tenho 16 anos, foco em **cibersegurança**, com o objetivo de atuar profissionalmente na área. Busco entender sistemas a fundo — de como são construídos a como podem ser quebrados (e protegidos).
 
 ---
 
